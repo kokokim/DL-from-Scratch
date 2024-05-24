@@ -1,6 +1,7 @@
 #손글씨 숫자 인식
 #train set을 이용해서 학습하지 않고 그냥 test set을 사용하여 바로 predict함
 #train을 하지 않아도 나오는구나...? 의잉..?
+#cd v1/ch3로 들어가서 실행해야 실행됨
 
 # coding: utf-8
 import sys, os
